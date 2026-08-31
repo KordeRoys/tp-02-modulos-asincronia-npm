@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Risk",
+        "editorial": "Parker Brothers",
+        "anio": 1950,
+        "jugadoresMin": 2,
+        "jugadoresMax": 8,
+        "categorias": [
+            "Estrategia",
+            "Táctica",
+            "Suerte",
+            "Negociación"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "Monopoly", 
+        "editorial": " Hasbro",
+        "anio": 1904,
+        "jugadoresMin": 3,
+        "jugadoresMax": 8,
+        "categorias": [
+            "Negociación",
+            "Administracion"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "Warhammer 40,000",
+        "editorial": "Games Workshop",
+        "anio": 1987,
+        "jugadoresMin": 2,
+        "jugadoresMax": 40000,
+        "categorias": [
+            "Tactica Militar",
+            "Aritmética"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "Civilization",
+        "editorial": "Edge Entertainment",
+        "anio": 1980,
+        "jugadoresMin": 2,
+        "jugadoresMax": 7,
+        "categorias": [
+            "Estrategia",
+            "Construccion de civilizaciones"
+        ],
+        "disponible": true
+    }
+]
