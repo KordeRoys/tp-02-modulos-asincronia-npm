@@ -1,0 +1,30 @@
+CATÁLOGO DE JUEGOS DE MESA
+    ==========================
+    Cantidad de juegos: 4
+
+    1. Risk.
+    Editorial y año : Parker Brothers, 1950.
+    Participantes: 2 a 8.
+    Categorías: Estrategia, Táctica, Suerte, Negociación.
+    Estado: Está disponible.
+    
+2. Monopoly.
+    Editorial y año : Hasbro, 1904.
+    Participantes: 3 a 8.
+    Categorías: Negociación, Administracion.
+    Estado: Está disponible.
+    
+3. Warhammer 40,000.
+    Editorial y año : Games Workshop, 1987.
+    Participantes: 2 a 40000.
+    Categorías: Tactica Militar, Aritmética.
+    Estado: No está disponible.
+    
+4. Civilization.
+    Editorial y año : Edge Entertainment, 1980.
+    Participantes: 2 a 7.
+    Categorías: Estrategia, Construccion de civilizaciones.
+    Estado: Está disponible.
+    
+
+    

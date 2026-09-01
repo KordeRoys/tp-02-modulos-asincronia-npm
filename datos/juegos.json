@@ -1,7 +1,7 @@
 [
     {
         "titulo": "Risk",
-        "editorial": "Parker Brothers",
+        "editorial": ["Parker Brothers"],
         "anio": 1950,
         "jugadoresMin": 2,
         "jugadoresMax": 8,
@@ -15,7 +15,7 @@
     },
     {
         "titulo": "Monopoly", 
-        "editorial": " Hasbro",
+        "editorial": ["Hasbro"],
         "anio": 1904,
         "jugadoresMin": 3,
         "jugadoresMax": 8,
@@ -27,7 +27,7 @@
     },
     {
         "titulo": "Warhammer 40,000",
-        "editorial": "Games Workshop",
+        "editorial": ["Games Workshop"],
         "anio": 1987,
         "jugadoresMin": 2,
         "jugadoresMax": 40000,
@@ -35,11 +35,11 @@
             "Tactica Militar",
             "Aritmética"
         ],
-        "disponible": true
+        "disponible": false
     },
     {
         "titulo": "Civilization",
-        "editorial": "Edge Entertainment",
+        "editorial": ["Edge Entertainment"],
         "anio": 1980,
         "jugadoresMin": 2,
         "jugadoresMax": 7,
