@@ -13,7 +13,7 @@ function formatearJuegoDeMesa(juegoDeMesa, posicion) {
     Estado: ${disponibilidad}.
     `; 
 } //En el archivo JSON, editorial es un string, no un array. El método .join() solo funciona con arrays. Por ende vamos a cambiar por un array en juegos.json
-
+ 
  /* 
  CATÁLOGO DE JUEGOS DE MESA
 ==========================

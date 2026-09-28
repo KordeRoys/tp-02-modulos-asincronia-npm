@@ -27,4 +27,4 @@ async function main() {
 }
 
 main();
-console.log(pc.blue("Programa finalizado")); 
+console.log(pc.blue("Programa finalizado"));  

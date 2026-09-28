@@ -1,9 +1,9 @@
 # Trabajo práctico 02
 ## Descripción: Este programa crea un archivo de texto de un catalogo de juegos de mesa alamcenados en un JSon, en el que muestra su disponibilidad en el catalogo
 
-## Instalación: Primero se instalan las dependencias, node i pococolors y npm install
+## Instalación: Una vez descargado el archivo en la direccion de carpeta señalada en la terminal descargar las librerias con npm install
 
-## Ejecución: Luego se ejecuta con node index.js
+## Ejecución: Luego se ejecutar el programa con npm start
 
 ## Estructura del proyecto: El proyecto se compone de una carpeta src(source) que contiene el archivo index donde se ejecuta el programa, el archivo juegos que transforma los datos del dominio(json) y devuelve el informe completo como texto y el archivo que exporta el modulo que contiene las funciones que leen el JSON y escriben el texto
 
